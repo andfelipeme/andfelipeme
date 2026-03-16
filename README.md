@@ -3,7 +3,7 @@ Soy desarrollador Full-Stack con un enfoque principal en Frontend, apasionado po
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://andfelipeme.duckdns.org/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)]([https://andfelipeme.duckdns.org/](https://andformendez.com/))
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andmendezfor)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andfelipeme-developer)
 
