@@ -2,9 +2,9 @@
 <h3 align="center">Backend Python Developer · Applied AI · Industrial IoT</h3>
 
 <p align="center">
-  <a href="https://andformendez.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/andfelipeme-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/andmendezfor" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://andformendez.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/andfelipeme-fullstack/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/andmendezfor" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
@@ -26,7 +26,7 @@ I'm also an **entrepreneur**: I build software for real businesses with real use
 
 ## 🚀 Featured Project
 
-### 📚 [Manga XTCH](https://manga-xtch.vercel.app){:target="_blank"} 
+### 📚 [Manga XTCH](https://manga-xtch.vercel.app)
 **Web app that converts manga (CBZ) into the XTCH format for the Xteink X4 Pro e-reader running CrossPoint firmware.**
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Vitest](https://img.shields.io/badge/vitest-%236E9F18.svg?style=flat&logo=vitest&logoColor=white) ![Web Workers](https://img.shields.io/badge/Web_Workers-555?style=flat) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
