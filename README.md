@@ -26,17 +26,8 @@ I'm also an **entrepreneur**: I build software for real businesses with real use
 
 ## 🚀 Featured Project
 
-### 📚 [Manga XTCH](https://github.com/andfelipeme/manga-xtch)
+### 📚 [Manga XTCH](https://manga-xtch.vercel.app)
 **Web app that converts manga (CBZ) into the XTCH format for the Xteink X4 Pro e-reader running CrossPoint firmware.**
-
-🔗 **[Try it live](https://manga-xtch.vercel.app)** · 📂 **[Source code](https://github.com/andfelipeme/manga-xtch)**
-
-- 🔒 **100% client-side:** the conversion runs in the user's browser (desktop or phone). Files are never uploaded to a server.
-- ⚙️ **Custom image pipeline:** margin trimming, Lanczos resizing, sharpening, levels and Floyd–Steinberg dithering to 2-bit grayscale (4 tones), tuned for a 480×800 e-ink screen.
-- 📖 **Manga-aware:** double-page spreads are split in right-to-left reading order.
-- 🧩 **Binary format verified against the firmware:** the XTCH encoder was validated against the CrossPoint reader's source code, with tests that decode the output using the same logic as the device.
-- ⚡ **Parallel processing** with Web Workers: a full 382-page volume converts in about a minute and a half.
-- 📱 Responsive, dark mode, cancelable conversions, deployed on Vercel with CI from GitHub.
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Vitest](https://img.shields.io/badge/vitest-%236E9F18.svg?style=flat&logo=vitest&logoColor=white) ![Web Workers](https://img.shields.io/badge/Web_Workers-555?style=flat) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
